@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../cycle51"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "you"
+	}
+}
